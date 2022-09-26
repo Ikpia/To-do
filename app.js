@@ -24,10 +24,10 @@ const item1 = new Item({
   name:"Welcome to to-do list"
 });
 const item2 = new Item({
-  name:"Hit + button to add"
+  name:"Type  new items"
 });
 const item3 = new Item({
-  name:"Test"
+  name:"Hit the + button to add new items"
 });
 
 const allItems = [item1,item2,item3]
